@@ -1,0 +1,9 @@
+.NavItem{
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.Active{
+    border-bottom: 3px solid aqua;
+}
